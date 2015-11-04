@@ -1,0 +1,161 @@
+Getting top ten reviews for a User...
+Getting item info from review...http://www.amazon.com/review/R2H1F1BXNU2LTE
+
+***** Item Info *****
+itemNo: B014ITXN3E
+itemTitle: EBMORE® Women's Crew Socks Wool Thick Winter 5-Pack Mix Colors
+itemUrl: http://www.amazon.com/gp/product/B014ITXN3E
+itemBrand: None
+itemCategory: Clothing
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 13, 2015
+reviewRating: 5
+reviewSummary: Warm, good fit
+reviewDescription: These are very nice socks but they are not wool according to their label. They are made out 75% cotton, 20% polyester and 5% spandex. The socks are thick, the craftmanship is good (no loose threads, nicely finished toes).I have fairly small feet and not all socks fit me well, these do. And because they have some spandex they stretch very well. This means someone with large feet or thick ankles will find them comfortable too.From the heel to the top of the cuff the socks are 5.75&#34; (unstretched).I have a pet peeve when vendors stable the socks through the center with a staple gun, often this weakens the threads and can creates holes. These socks have been stabbed through the center, and one of the staples split a thread and required careful extrication.I am quite pleased - good selection of colors, nice fit, comfortable.These socks are provided by EMMORE for evaluation and review as part of a new product introduction.Ali Julia review
+Getting item info from review...http://www.amazon.com/review/R2WXQNSJFXDYMH
+
+***** Item Info *****
+itemNo: B0156QYIT6
+itemTitle: iRonsnow® IS-090 Solar Hand Crank AM/FM/NOAA/WB Weather Radio, Self-Powered Dynamo 2000mAh Emergency Power Bank for iPhone/Android Phone, 1W LED flashlight 2W Reading Lamp, AAA Battery Charged (Red)
+itemUrl: http://www.amazon.com/gp/product/B0156QYIT6
+itemBrand: HeartAcc
+itemCategory: Patio, Lawn & Garden
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 15, 2015
+reviewRating: 5
+reviewSummary: Gives me a pretty decent reception
+reviewDescription: See video on Amazon.com This unit has three sources of energy: USB which can be used to quickly recharge it Solar which can recharge it when there is sun Manual crank, where 1 minute of cranking will provide 20 minutes of light or radioIn the attached video I show various features of this emergency radio/flashlight. I was impressed that it gets fairly decent reception.The iRonsnow unit in addition to being a radio with FM/AM/WB bands also a flash light and can serve as an external power bank for brief charging of a cell phone (i.e. it will not fully recharge it, but will give it enough juice to make an emergency phone call it chargers at a slow USB rate).The radio is 6&#34; x 2 7/8&#34; x 1 3/4&#34;, its weight is 10.9 oz.It is water resistant and can be used in the rain or in a water craft, but it should not be submerged in water. Maintenance recommendation from the manufacture is to crank the handle for a few moments and turn on the flashlight for 5 seconds every 60 to 90 days if the unit is stored without use for several months. Manufacture states that battery life expectancy is more than 3 years and more than 5000 charging cycles (with 3 hours of daily use).Overall, I am impressed with the radio reception I got.The radio also provides two sources of light. The side lamp and the top panel. Neither one is very bright, but they provide some light in an emergency situation. To quantify what I mean by not very bright I used a lux meter which measures the light intensity. The top panel provided 5.6 lux at 12 inches, the side lamp provided 73 lux at 12 inches. For comparison a 60 watt fluorescent bulb at the same distance of 12&#34; produces a reading of 1110 lux.Cranking is not hard, and true to advertising 1 minute of cranking gave me about 20 minutes of light. I am feeling better prepared for the next long power outage at least I will have AM, FM, and weather band to keep me informed. I hope my video gives you a good idea of what to expect.This radio is provided by iRonsnow.Ali Julia review
+Getting item info from review...http://www.amazon.com/review/R2PJE1F5D9RAW9
+
+***** Item Info *****
+itemNo: B00Y2PTJK6
+itemTitle: FLIR Systems MR160 Imaging Moisture Meter
+itemUrl: http://www.amazon.com/gp/product/B00Y2PTJK6
+itemBrand: FLIR Systems, Inc.
+itemCategory: Home Improvement
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 15, 2015
+reviewRating: 5
+reviewSummary: Works well - detects wetness and heat leaks
+reviewDescription: See video on Amazon.com This camera works well detecting wet areas as well as heat leaks. This is not surprised because it works by measuring the surface temperature of different areas. Wet areas are cooler than other areas, heat leaks also show up as a different surface area from areas that are well insulated.One key thing to know about this thermal camera is that it works by measuring the SURFACE temperatures. It cannot penetrate walls. Its imagery shows the differences between temperatures on the surface - the cooler areas are shown in blue. In addition to the over the air measurements, the meter includes an external pin probe. The pin probe can measure moisture to the depth of 0.75&#34;.The package include a thick manual, however the reason it is so thick that it covers a very large number of languages. Only three pages for each language. A more detailed manual is included in the internal memory of the camera itself under &#34;DOCS&#34; directory and &#34;User Guide&#34; subdirectory.The camera comes with built-in memory card. The memory card is not removable. To get images from the camera you need to connect the camera to the PC using a USB cable (included). The camera does not support wireless operations.The camera runs on 3.7 V Rechargeable Li-ion polymer battery. Note that to replace it the camera needs to be mailed backed to manufacturer. Seems like a bad idea, but maybe it is because the camera is waterproofed.The camera takes still photos and produces small files in BMP format. The photos appear under DCIM subdirectory with names that look like this: &#34;FLIR0001.BMP&#34; The photos are pretty low res as you see in my video, but enough to see what is going on. The camera does not take video, there is no timer for lapse photos, each photo requires a button push.The camera operates at pretty good distance I was able to get reading from 30 feet away.The camera comes without a case. It has an odd shape and I have not found a good case for it yet and storing it in a nylon bag. It size is 5.75&#34; tall x 2.75 wide x 1,5&#34; thick. It weighs 11.1 oz.The camera has no screw for a tripod, you have to hold in your hand when taking measurements.So what is the bottom line? About 10 years ago we had done a professional thermal analysis of our house which helped us add extra insulation in the right areas. When I pulled out the old report I noticed that photos were taken by FLIR system, although a different model. This camera worked almost as well (the other model provided was the actual surface temperatures as it was designed to be a heat leak detector rather than moisture detector and had more colors). I looked at the area which we did not fix because it was hard to get to, and this camera showed the same leaks as the professional report. The professional report cost us several hundred dollars, so even though this camera is not cheap using it a couple of time would put us ahead of hiring someone to do the reading for us.This camera is provided by FLIR.Ali Julia review
+Getting item info from review...http://www.amazon.com/review/R1F75W779UABQB
+
+***** Item Info *****
+itemNo: B013ALOFFQ
+itemTitle: YOUNA Soft Leather Purses and Handbags /Shopper Zipper Hobo Shoulder Handbags for Women Black
+itemUrl: http://www.amazon.com/gp/product/B013ALOFFQ
+itemBrand: None
+itemCategory: Shoes
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 13, 2015
+reviewRating: 5
+reviewSummary: Practical every day bag - large without being huge
+reviewDescription: This is not a fancy bag, I would describe it as an every day purse. It is fairly large without being huge. It is made out faux leather (Amazon description calls it &quot;genuine microfiber leather&quot;). It is a well done imitation and feels soft. I have been using it for a few weeks and so far it is holding up fine and I am not babying it. I put it down on the floor, take it out in a rain, toss into a shopping cart, and so forth.I selected a black bag and has a beige cotton lining. The color of the liner is very practical and does not show dirt. Its size is 14&quot; wide, 9&quot; top to bottom. The handles have 3&quot; clearance between the top of the bag and the top of the handle loop. In addition it comes with long and adjustable shoulder strap which has a maximum length of 55.5&quot;. The handle is long enough to wear across the body or as shoulder bag.It has one large compartment on the inside which closes with a big zipper. Inside there many pockets. On one side there are three pockets (two are zipped) and the other side has two more open pockets. I am attaching several photos show show the inside of the bag, including the pockets. The three that are next to each other are unique, I have not see bags organized that way and I like this extra organization.The bag has a clucky looking and heavy metal tag. However, it is attached by leather strap with a clip and can be easily removed.This is a practical handbag. Good bag for every day, not a bag for an evening out.This handbag is provided by YOUNA.Ali Julia review
+Getting item info from review...http://www.amazon.com/review/R1I5CIWI8KTHWP
+
+***** Item Info *****
+itemNo: B00XX63IAW
+itemTitle: Semlos Adjustable Car Seat Belt Seatbelt Extender Extension Black(length 250mm&#xFF0C;tongue Width: 21.5mm)
+itemUrl: http://www.amazon.com/gp/product/B00XX63IAW
+itemBrand: Semlos
+itemCategory: Automotive
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 15, 2015
+reviewRating: 5
+reviewSummary: Works well in my Honda
+reviewDescription: See video on Amazon.com This seat belt extension fits my Honda without problems. I got the shorter one and and it adds 10 inches to the over seatbelt length. This is just the right side to make it more comfortable for a pregnant friend that often rides in my car. Attached video shows clip in/clip out action.This seat belt extender is provided by Semlos.Ali Julia review
+Getting item info from review...http://www.amazon.com/review/R1ZJFQMHSSLEWC
+
+***** Item Info *****
+itemNo: B012AFX9VY
+itemTitle: Inf-way EN388 2 Pairs of Black Stainless Steel Wire Mesh Gloves 100% Working Protective Cut-resistant Anti-abrasion Chain Saw Safty Gloves
+itemUrl: http://www.amazon.com/gp/product/B012AFX9VY
+itemBrand: Inf-way
+itemCategory: Home Improvement
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 14, 2015
+reviewRating: 5
+reviewSummary: Medium size gloves that got more comfortable with use
+reviewDescription: See video on Amazon.com These are Medium size gloves. They were too large for me (I normally wear small size). They fit my husband better. Initially he thought the fingers were a bit too tight for comfort and the palm was a little too wide. However, after using them for shucking oysters my husband said they became more comfortable and molded themselves to his fingers and the tightness in the fingers was no longer a problem. The gloves gave him a great grip and made him less worried about cutting himself. He was able to apply more pressure. The bottom line was that he never shucked oysters as fast as he did with these gloves on. He actually wore just one glove, on the hand that held the oyster, he held the oyster knife with his bare hand.To illustrate the fit I show how the gloves fits my hand as well as on 1&#34; grid for size reference. And here are some additional measurements.The middle finger is 3.25&#34;The total glove length is 9.5&#34;The width of the palm is 4.25&#34; unstretchedNote that cut resistant gloves should not be too tight, when they are tight the fibers have less cut resistance.The gloves are symmetrical - by that I mean there is no left or right. Since my husband only needs one glove for shucking we are keeping one in the kitchen at home and one in the car along with the oyster knife as one can often get great fresh oysters along New England coast line.The only negative I can say about the gloves that all packaging is in Chinese, so we did not know the best way to clean the gloves. I looked up instructions on the internet and it appears that cut gloves are cleaned by washing with soap and water. Some manufacturers suggest hand washing others say machine washing is okay.These gloves are provided by Inf-way.Ali Julia review
+Getting item info from review...http://www.amazon.com/review/R3HETX83IA8ZGJ
+
+***** Item Info *****
+itemNo: B014PKXDSG
+itemTitle: Bestten 6-Outlet Power Strip Surge Protector with 6 USB Ports, 900Joules, 6ft Cord, 6A/30W USB Charger Station for iPhone,iPad,Tablet,iPod,Camera,GPS,Power Bank,HDD and More
+itemUrl: http://www.amazon.com/gp/product/B014PKXDSG
+itemBrand: Bestten
+itemCategory: Electronics
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 13, 2015
+reviewRating: 4
+reviewSummary: Compact power strip with tightly spaced AC outlets
+reviewDescription: Bestten power surge protector provides 6 AC power outlets and 6 USB ports. This is a fairly compact power strip with an on/off switch. The AC outlets are placed very closely, so only slim regular plugs fit next to each outer. Sonya AAA battery charger covers up three AC slots, my camera charger covers up two slots, LED lamp transformer plug takes up two slots. I am attaching several photos to help folks plan how to use this power strip. USB outlets are well spaced out.All outlets on the strip work well. I tested each USB port with a current monitor and several of my mobile devices. All 6 USB ports worked well with both Apple and Android devices. Android devices all drew around 1A on all 6 ports. This an optimal rate for my phone. My iPadMini drew above 1A on ports rated 2A (there are two of them), and 0.93A on the ports rated 1A (there are four of them). This is in line with other AC chargers.I would have liked the AC outlets to be spaced out a little wider but other than that it is a nice power strip. It has been in use for a couple of week, it does not get hot, no sparks, all is working well.This power strip is provided by Bestten.Ali Julia review
+Getting item info from review...http://www.amazon.com/review/R26SMG98DBIN3C
+
+***** Item Info *****
+itemNo: B0113NYEQS
+itemTitle: Coplux Full HD 1080p Waterproof Action Camera Camcorder, Bicycle Helmet Sport DV ,140°Wide Angle Lens 2 Inch Sports Camera for Outdoor , Motorbike DVR with Accessories Kit (Yellow)
+itemUrl: http://www.amazon.com/gp/product/B0113NYEQS
+itemBrand: Coplux
+itemCategory: Camera & Photo
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 14, 2015
+reviewRating: 4
+reviewSummary: Reasonable entry level action camera
+reviewDescription: See video on Amazon.com Amazon has a large selection of these small aciton cameras. This is an entry level package which contains a smaller number of accessories and a camera with fewer features. For example, this camera does not have WIFI capability and the wide angle lens is 140 degrees rather 170 degrees available in other packages. However it is about $15 cheaper than the a similar camera with WIFI and larger number of clips as the time I am writing this review.Coplux video quality is reasonably good and it has an simple menu driven interface that is easy to use. The video is somewhat overexposed in very bright sun. It is acceptable in when it is totally dark (for example used a night time dash cam) although not as good as my full size camera. The camera is exactly the same size as GoPro camera. It fits all accessories built for GoPro. I have a drone which has a gimbal designed to work with GoPro and this camera fits into this gimbal as if it was built for it! I picked out this camera because it has a bright yellow front, which makes it easy to see if the camera is positioned correctly when it is up in the air. When the camera is all black I can't always tell if I have it positioned correctly, with one side yellow and one side black it is much easier.Coplux supports micro SD cards up to 32GB (the micro SD card is not included).It produces video in the following resolutions (records in .mov format) using degree HD wide angle lens.It runs on 900mAH and I get slightly over an hour on one charge. To recharge the camera takes about 3 hours from empty.In attached video you can see video of the camera and video taken by the camera. Note that Amazon compresses video so this degrade the video quality in the clip.I received this camera for evaluation and review as part of a new product introduction. Getting a free product does not effect what I say. My reviews reflect only my experience with the product and reviews are good or bad only based on how well the product works. If you have questions on something I did not cover post a comment and I'll do my best to answer it.Ali Julia review
+Getting item info from review...http://www.amazon.com/review/R18LJXWRLSF8SP
+
+***** Item Info *****
+itemNo: B00PGV723G
+itemTitle: Rosewill VALENS Series VALENS-700M 700W Continuous @40°C, 80 PLUS Gold Certified, Modular Design, Single +12V Rail, ATX12V v2.31/EPS12V v2.92, SLI & Crossfire Ready, Active-PFC Power Supply
+itemUrl: http://www.amazon.com/gp/product/B00PGV723G
+itemBrand: Rosewill
+itemCategory: Computers & Accessories
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 14, 2015
+reviewRating: 5
+reviewSummary: It's a good one!
+reviewDescription: See video on Amazon.com This is a nice power supply with enough for any personal computer. Its capacity of 700w and a large number of connectors (total of 5 connectors plus 3 hard-wired plugs). This power supplies provides a lot of room for growth.Alens 700 is 5 5/8&#34; x 3.5&#34; x 6&#34;. It uses ribbon cables, which are more flexible than round cables.Connectors:--&#62; One 20 +4 Main plug, hard-wiredIt can handle motherboards with both 20 pin or 24 pin connectors.--&#62; One EPS12V CPU plug, hard-wiredThe power supply supports one CPUs. It is designed for desktop use only, as servers often have more than one CPU.--&#62; One PCIe plug, hard-wired--&#62; One PCIe plug, modularSupports two SLI graphics cards--&#62; Three SATA or Molex plugs2 SATA cables, each with 3 plugs, total of 6 SATA devices1 Molex cable, four Molex plugs and one floppy plugI measured the power supply with a power supply tester and all votages are within tolerance. The attached video includes several screen shots that show the power supply tester output. The top number for each rail shows the expected results, the number below (in a slightly larger font) shows the actual reading. 0.5V is the acceptable tolerance. All readings are well within the tolerance. Its a good one!This power supply is provided by Rosewill.Ali Julia review
+Getting item info from review...http://www.amazon.com/review/R1T5OX82F58LET
+
+***** Item Info *****
+itemNo: B015QO8H1S
+itemTitle: Jumbo Vacuum Space saver Storage bags. [BONUS] Free travel Vacuum hand pump. Jumbo size, excellent for long term storage or saving extra space while traveling. Pack of 6 By Ecogreen Storage
+itemUrl: http://www.amazon.com/gp/product/B015QO8H1S
+itemBrand: EcoGreen Storage
+itemCategory: Home & Kitchen
+
+***** Review Info *****
+reviewerName: Ali Julia
+reviewerUrl: http://www.amazon.com/gp/pdp/profile/A2D1LPEUCTNT8X
+dateReviewed: October 12, 2015
+reviewRating: 3
+reviewSummary: I liked it alot until the little pump broke. Bags are still useable with a vaccum cleaner hose.
+reviewDescription: See video on Amazon.com I always use each product I review for several weeks to see how they work with continuous use. My initial impression of these vacuum bags was very good, and I really liked the little pump. However, the pump broke after several uses. The gasket on inside of the pump got ripped and it can no longer generate vacuum. I can still use my vacuum hose to evacuate the air so the bags are usable, but the pump is not. One of the things that attracted me to this item was the pump, so it is disappointing to see that it did not last.After the first use I thought I was going to rate this product as 5 star product, unfortunately my initial impression is downgraded to ok 3 star. The bags are still very good, but the pump is not well made and 3 star is average between the parts of the listing.This is the review I wrote before the pump broke:I use vacuum bags to store seasonal clothing. Between the two types of bags (compression bags and vacuum storage bags) I prefer the vacuum bags. Compression bags are the kind you need to roll up to extract air, vacuum bags get the air evaluated with an aid of the vacuum. Before this particular set of bags I always used a hose from an electric vacuum to get the air out, this set comes with a pump. Which means the biggest obstacle using vacuum bags when travelling is removed. The enclosed vacuum pump is small and light. It is constructed to fit the opening of the bag. In attached video you see how it works. There was one pleasant surprise. After I pumped out the air from the bag (took about 160 pumps) I thought a lot of air would rush back in between the time I removed the pump and put the cap on, however the vacuum port is constructed in such a way that no air got in at all!This set contains 6 bags, 6 clips to close the bag opening, and 1 pump. To unseal the bag all I do is pull the edge apart. I am very please with the set. If there was one thing I would have wanted to change it would be to have a couple of extra clips. I tend to lose them over the years. The bags last me many seasons, but the problem is that I tend to lose the clips and this means I cannot reseal the bag again.These bags are provided by Eco Green. Even though I don't get 75% compression (that depends on how fluffy the things you are compressing are) I am still very pleased with them. They are a nice space saver.Ali Julia review
