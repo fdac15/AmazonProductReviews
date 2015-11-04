@@ -2,7 +2,7 @@ from python_implementation.src.reviewClass import Review
 from bs4 import BeautifulSoup
 import requests
 
-def get_review(url):
+def get_review(url, usrid):
 
     # Reviewer Item Review Page
     response = requests.get(url)
@@ -13,6 +13,7 @@ def get_review(url):
 
     # Initialize class
     review = Review()
+    review.reviewerID = usrid
 
     # Get Reviewer Info
     try:
@@ -23,7 +24,7 @@ def get_review(url):
         review.reviewerUrl = "http://www.amazon.com" + review_page.find('span', {"class": "reviewer vcard"}).find("a").get('href')
         review.dateReviewed = review_page.find('abbr', {"class": "dtreviewed"}).string
     except AttributeError:
-        print("error")
+        print("incomplete review info")
 
     # Get Item Info
     try:
@@ -31,9 +32,12 @@ def get_review(url):
         review.itemTitle = review_page.find('abbr', {"class": "title"}).string
         review.itemCategory = review_page.find('abbr', {"class": "category"}).string
         review.itemUrl = review_page.find('span', {"class": "item"}).find("a").get('href')
+        review.itemPrice = soup.find('span', {"class": "price"}).string
         review.itemBrand = review_page.find('abbr', {"class": "brand"}).string
     except AttributeError:
-        print("error")
+        print("incomplete item info " + "itemNo: " + review.itemNo + " itemTitle: "
+              + review.itemTitle + " itemCategory: " + review.itemCategory + " itemUrl: "
+              + review.itemUrl + " itemBrand: " + review.itemBrand + " itemPrice: " + review.itemPrice)
 
     return review
 

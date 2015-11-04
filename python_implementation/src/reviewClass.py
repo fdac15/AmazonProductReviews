@@ -1,6 +1,7 @@
 class Review:
     def __init__(self):
         self.reviewerName = "none"
+        self.reviewerID = "none"
         self.Rating = "none"
         self.Summary = "none"
         self.Description = "none"
@@ -11,3 +12,4 @@ class Review:
         self.itemCategory = "none"
         self.itemUrl = "none"
         self.itemBrand = "none"
+        self.itemPrice = "none"
