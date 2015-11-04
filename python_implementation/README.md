@@ -1,12 +1,15 @@
 
-# Start a Screen
+### Start a Screen
 $  screen -S screenName
 
-# Leave Screen
+### Leave Screen
 $  ctr-a, d
 
-# View active Screens
+### View active Screens
 $  screen -ls
 
-# Enter active Screen
+### Enter active Screen
 $  screen -r screenName
+
+### Kill Screen
+$  screen -X -S screenName kill
