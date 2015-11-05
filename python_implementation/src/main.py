@@ -1,8 +1,8 @@
-from python_implementation.src.get_review_info import get_review
-from python_implementation.src.get_review_urls import get_urls
+from get_review_info import get_review
+from get_review_urls import get_urls
 import csv
 
-with open('/Users/Curtis/Desktop/Fall 2015/FNDA/AmazonProductReviews/python_implementation/reviews.csv', 'w', newline='') as csvfile:
+with open('/home/jhughe39/AmazonProductReviews/python_implementation/reviews.csv', 'w', newline='') as csvfile:
 
     # header for csv file
     fn = ['reviewerID', 'reviewerName', 'reviewerUrl', 'itemNo', 'itemTitle', 'itemUrl', 'itemBrand', 'itemPrice',
@@ -12,7 +12,7 @@ with open('/Users/Curtis/Desktop/Fall 2015/FNDA/AmazonProductReviews/python_impl
     reviewWriter = csv.DictWriter(csvfile, delimiter=',', fieldnames=fn)
     reviewWriter.writeheader()
 
-    with open("/Users/Curtis/Desktop/Fall 2015/FNDA/AmazonProductReviews/reviewers_list.csv") as ouputfile:
+    with open("/home/jhughe39/AmazonProductReviews/reviewers_list.csv") as ouputfile:
         reader = csv.DictReader(ouputfile)
         for row in reader:
 
@@ -29,5 +29,3 @@ with open('/Users/Curtis/Desktop/Fall 2015/FNDA/AmazonProductReviews/python_impl
                     review = get_review(url, usrid)
                     reviewWriter.writerow(review.__dict__)
 
-                # To grab all data remove break
-                break

@@ -1,4 +1,4 @@
-from python_implementation.src.reviewClass import Review
+from reviewClass import Review
 from bs4 import BeautifulSoup
 import requests
 
@@ -36,8 +36,8 @@ def get_review(url, usrid):
         review.itemBrand = review_page.find('abbr', {"class": "brand"}).string
     except AttributeError:
         print("incomplete item info " + "itemNo: " + review.itemNo + " itemTitle: "
-              + review.itemTitle + " itemCategory: " + review.itemCategory + " itemUrl: "
-              + review.itemUrl + " itemBrand: " + review.itemBrand + " itemPrice: " + review.itemPrice)
+             + review.itemTitle + " itemCategory: " + review.itemCategory + " itemUrl: "
+            + review.itemUrl + " itemBrand: " + review.itemBrand + " itemPrice: " + review.itemPrice)
 
     return review
 
