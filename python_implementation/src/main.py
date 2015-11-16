@@ -2,7 +2,7 @@ from get_review_info import get_review
 from get_review_urls import get_urls
 import csv
 
-with open('/home/jhughe39/AmazonProductReviews/python_implementation/reviews.csv', 'w', newline='') as csvfile:
+with open('/home/jhughe39/AmazonProductReviews/python_implementation/reviews.csv', 'a', newline='') as csvfile:
 
     # header for csv file
     fn = ['reviewerID', 'reviewerName', 'reviewerUrl', 'itemNo', 'itemTitle', 'itemUrl', 'itemBrand', 'itemPrice',
@@ -17,7 +17,7 @@ with open('/home/jhughe39/AmazonProductReviews/python_implementation/reviews.csv
         for row in reader:
 
             # only scrape my data
-            if row['scraper'] == "Curtis":
+            if row['scraper'] == "Curtis" and row['X'] > 353:
                 usrid = row['url_name']
 
                 # get top 100 review urls for user
